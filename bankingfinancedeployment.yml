@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: bankingfinance
   labels:
-    app: test
+    app: bankingfinance
 spec:
   replicas: 1
   selector:
